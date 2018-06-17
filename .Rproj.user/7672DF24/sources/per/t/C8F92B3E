@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527965793946.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3238016077",
+    "id" : "C8F92B3E",
+    "lastKnownWriteTime" : 1527975910,
+    "last_content_update" : 1527975910101,
+    "path" : "/media/mrugank/626CB0316CB00239/for development purpose only/R/machine learning/Decision Tree Regression/Decision_Tree_Regression.R",
+    "project_path" : "Decision_Tree_Regression.R",
+    "properties" : {
+        "cursorPosition" : "10,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
